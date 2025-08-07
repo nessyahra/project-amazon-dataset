@@ -1,6 +1,6 @@
 # Project with Amazon Dataset
 This project focuses on analyzing a dataset from Amazon containing over 1,000 entries, including product information, customer ratings, and written reviews. The workflow begins with thorough data preparation and cleaning to ensure data quality and consistency.
-<br> After preprocessing, the data is explored through various visualizations to uncover patterns, trends, and potential correlations between features such as ratings and discounted prices. The goal is to gain insights into customer behavior, product performance, and overall marketplace dynamics. Check the dataset from Kaggle: [Amazon Dataset] (https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+<br> After preprocessing, the data is explored through various visualizations to uncover patterns, trends, and potential correlations between features such as ratings and discounted prices. The goal is to gain insights into customer behavior, product performance, and overall marketplace dynamics. Check the dataset from Kaggle: [Amazon Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 
 # Features
 * product_id - Product ID
